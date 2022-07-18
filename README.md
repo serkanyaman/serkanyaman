@@ -3,7 +3,7 @@
 ![A crazy developer as me.](./img/me1.gif)
 
 
-## I'm a Fron-End Developer  !
+## I'm a Front-End Developer  !
 
 - 🌱 I'm currently studying on React.js.
 ### Connect with me:
